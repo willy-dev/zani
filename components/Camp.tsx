@@ -71,14 +71,14 @@ const Camp = () => {
             <strong>Feeling lost</strong> on your journey to healthy, organic living?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            With care, dedication, and sustainable practices, we cultivate and harvest the freshest produce, ensuring every bite is filled with flavor and goodness.
+            With care, dedication, and sustainable practices, we cultivate and harvest the freshest produce, ensuring every bite is filled with flavor and health.
           </p>
           <Image
             src='/quote.svg'
             alt='camp-2'
             width={186}
             height={219}
-            className="camp-quote"
+            className="camp-nou"
           />
         </div>
       </div>
