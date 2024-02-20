@@ -78,7 +78,7 @@ const Camp = () => {
             alt='camp-2'
             width={186}
             height={219}
-            className="camp-nou"
+            className="camp-site-1"
           />
         </div>
       </div>
