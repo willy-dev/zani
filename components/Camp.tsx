@@ -80,6 +80,13 @@ const Camp = () => {
             height={219}
             className="camp-site-1"
           />
+          <Image
+            src='/quote.svg'
+            alt='camp-2'
+            width={186}
+            height={219}
+            className="camp-site-1"
+          />
         </div>
       </div>
     </section>
