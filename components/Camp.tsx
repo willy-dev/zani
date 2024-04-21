@@ -71,7 +71,7 @@ const Camp = () => {
             <strong>Feeling lost</strong> on your journey to healthy, organic living?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            With care, dedication, and sustainable practices, we cultivate and harvest the freshest produce, export every bite is filled with flavor and health and wealth and herbs to soothe your immunity my foot.
+            With care, dedication, and sustainable practices, we cultivate and harvest the freshest produce, export every product with tender care with little to no preservatives and fresh quality.
           </p>
           <Image
             src='/quote.svg'
